@@ -13,9 +13,9 @@ This is a simple YouTube clone built using HTML and CSS. The project replicates 
 
 You can view the live demo of the project by clicking the link below:
 
-[Live Demo](YOUR_DEMO_LINK_HERE)
+[Live Demo](https://chipper-rolypoly-0b79c6.netlify.app/)
 
-> Replace `YOUR_DEMO_LINK_HERE` with the actual URL where your project is hosted (e.g., GitHub Pages, Netlify, or any other hosting platform).
+
 
 ## Installation
 
@@ -24,3 +24,15 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/youtube-clone.git
+
+
+
+
+## Technologies Used
+HTML
+CSS
+Contributing
+Feel free to fork this repository, make changes, and submit a pull request.
+
+License
+This project is licensed under the MIT License.
